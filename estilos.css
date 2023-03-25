@@ -1,0 +1,11 @@
+.box-produto {
+  background: rosybrown;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.destaque {
+  font-weight: 700;
+  color: blueviolet;
+}
